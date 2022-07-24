@@ -4,8 +4,8 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Kacay Gemint'
-global.numberowner = '6287892711054'
+global.nameowner = 'Kacay Geming'
+global.numberowner = '6281258715448'
 global.instagram = 'https://instagram.com/Teamkacay'
 global.github = 'https://github.com/Danukacay6'
 global.dana = '085787403870'
